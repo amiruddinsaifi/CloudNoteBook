@@ -1,0 +1,35 @@
+{
+  "name": "cloudnotebook-backend",
+  "version": "1.0.0",
+  "description": "it's a notebook on cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiruddinsaifi/CloudNoteBook.git"
+  },
+  "keywords": [
+    "Notebook",
+    "on",
+    "cloud",
+    "cloud",
+    "notebook",
+    "Notes",
+    "online",
+    "notes",
+    "on",
+    "cloud"
+  ],
+  "author": "Amiruddin Saifi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amiruddinsaifi/CloudNoteBook/issues"
+  },
+  "homepage": "https://github.com/amiruddinsaifi/CloudNoteBook#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.1"
+  }
+}
